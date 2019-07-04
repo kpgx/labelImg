@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbe1020c-cb57-415f-ad2c-6f951aa424d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/icons/fastforward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/icons/saveBase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/icons/videoframe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labelImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/canvas.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/canvas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/resources.qrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/strings/strings-zh-CN.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/strings/strings-zh-CN.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/strings/strings-zh-TW.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/strings/strings-zh-TW.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/strings/strings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/strings/strings.properties" afterDir="false" />
-    </list>
+    <list default="true" id="cbe1020c-cb57-415f-ad2c-6f951aa424d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,12 +196,12 @@
       <updated>1562224631259</updated>
       <workItem from="1562224636235" duration="656000" />
       <workItem from="1562225766850" duration="13000" />
-      <workItem from="1562225826278" duration="6502000" />
+      <workItem from="1562225826278" duration="7295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7171000" />
+    <option name="totallyTimeSpent" value="7964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="33" width="1922" height="1060" extended-state="6" />
